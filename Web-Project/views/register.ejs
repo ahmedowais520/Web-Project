@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Register - CTF WebApp</title>
+  <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1 class="animated-title">CTF WebApp Register</h1>
+    <% if (error) { %>
+      <div class="error"><%= error %></div>
+    <% } %>
+    <form action="/register" method="POST" class="form animated-form">
+      <input type="text" name="username" placeholder="Username" required autofocus />
+      <input type="password" name="password" placeholder="Password" required />
+      <input type="password" name="confirmPassword" placeholder="Confirm Password" required />
+      <button type="submit" class="btn">Register</button>
+    </form>
+    <p>Already have an account? <a href="/login">Login here</a></p>
+  </div>
+</body>
+</html>
