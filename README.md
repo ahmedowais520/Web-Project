@@ -7,6 +7,8 @@ Steps to install:-
 
 2 -> cd Web-Project
 
-3 -> npm install 
+3 -> Again cd Web-Project
 
-4 -> npm start
+4 -> npm install 
+
+5 -> npm start
