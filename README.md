@@ -91,11 +91,6 @@ Feel free to fork the project, open issues, or submit pull requests. Let's impro
 Created by <a href="https://github.com/ahmedowais520">Ahmed Owais aka Green Wound</a>
 Feel free to reach out or star the repo if you found it helpful!
 
-```
-
-Let me know if you'd like a badge section (like for license, stars, etc.), screenshots, or setup instructions for MongoDB.
-```
-
 ## 👋 Connect with Me
 Let’s connect and collaborate!
 - 💼 <a href="www.linkedin.com/in/ahmed-owais-b01911280">LinkedIn</a>
