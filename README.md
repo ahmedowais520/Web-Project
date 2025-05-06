@@ -38,7 +38,7 @@ Clone the repository and get started in just a few commands:
 
 Step 1: Clone the repository
 ```
-git clone https://github.com/MH4S33B/Web_Project.git
+git clone https://github.com/ahmedowais520/Web-Project.git
 ```
 Step 2: Navigate into the directory
 ```
@@ -93,7 +93,7 @@ Feel free to reach out or star the repo if you found it helpful!
 
 ## 👋 Connect with Me
 Let’s connect and collaborate!
-- 💼 <a href="www.linkedin.com/in/ahmed-owais-b01911280">LinkedIn</a>
+- 💼 <a href="https://linkedin.com/in/ahmed-owais-b01911280">LinkedIn</a>
 - <a>TRYHACKME</a><br>
     <a href="https://tryhackme.com/p/AhmedOwais" target="_blank">
       <img src="https://tryhackme-badges.s3.amazonaws.com/AhmedOwais.png" alt="TryHackMe Badge" width="250" />
